@@ -3,6 +3,12 @@ title: Privacy Policy
 ---
 # Privacy Policy
 
-Phone numbers collected for this notification service are used solely to send home automation notifications to people who have requested them. Mobile numbers and opt-in information will not be shared with or sold to third parties or affiliates for marketing purposes. Numbers are retained only while the recipient wishes to receive notifications and are deleted on request.
+This policy covers the SMS notification service operated by Eric Krauser.
 
-Message frequency varies; typically 0–5 messages per month. Message and data rates may apply. Reply STOP to cancel at any time; reply HELP for help.
+**What we collect:** your mobile phone number and the date and method of your opt-in.
+
+**How it is used:** solely to send home automation notifications (device status, environmental readings, event notifications) that you have requested.
+
+We do not sell or share your SMS opt-in data or personal information with third parties for marketing purposes.
+
+Numbers are retained only while you wish to receive notifications and are deleted on request. Reply STOP to cancel at any time; reply HELP for help.
